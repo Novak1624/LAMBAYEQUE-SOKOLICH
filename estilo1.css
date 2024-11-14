@@ -2,6 +2,7 @@ body{
     background-color:aquamarine;
 }
 .styled-table{
+    border: 5px solid rgb(237, 0, 162);
     border-collapse: collapse;
     margin: 25px 0;
     font-size: 1em;
